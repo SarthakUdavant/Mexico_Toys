@@ -3,6 +3,8 @@
 ✅ Objective:
 - To analyze toy sales data in Mexico to uncover key revenue drivers, optimize inventory, and make data-backed business recommendations.
 
+![image alt](https://github.com/SarthakUdavant/Mexico_Toys/blob/main/Screenshots/Toysss..png)
+
 📌 Key Areas of Analysis:
 - Sales performance by region and channel
 - Product-wise revenue and profit
@@ -21,6 +23,11 @@
 - Power BI Desktop (for data modeling & visualization)
 - DAX (for calculated columns/measures)
 - Power Query (for ETL)
+
+![image alt](https://github.com/SarthakUdavant/Mexico_Toys/blob/main/Screenshots/Screenshot%202025-07-22%20221906.png)
+
+![image alt](https://github.com/SarthakUdavant/Mexico_Toys/blob/main/Screenshots/Screenshot%202025-07-22%20221930.png)
+
 
 🧹 Data Cleaning (ETL Process):
 - Removed null and duplicate values
